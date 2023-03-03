@@ -30,7 +30,7 @@ while True:
 
     if Keys[pygame.K_b]:screen.blit(crosshair, (287,32))
 
-    if Keys[pygame.K_c]:screen.blit(crosshair, (283,65))
+    if Keys[pygame.K_c]:screen.blit(crosshair, (166,95))
 
     if Keys[pygame.K_q]:screen.blit(crosshair, (87,32))
 
